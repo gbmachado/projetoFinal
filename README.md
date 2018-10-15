@@ -6,7 +6,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Planejamento da Release](planejamento-da-release.md)
 
-## [Representação da Arquitetura](representacao-da-arquitetura.md) 
+## [Representação da Arquitetura](Diagrama.png) 
 
 ## [Desenvolvimento da Solução](desenvolvimento-da-solucao.md)
 
