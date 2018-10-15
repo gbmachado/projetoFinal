@@ -2,7 +2,7 @@
 
 Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
-## [Canvas do Produto](canvas-do-produto.md)
+## [Canvas do Produto](Canvas.pptx)
 
 ## [Planejamento da Release](planejamento-da-release.md)
 
