@@ -6,6 +6,8 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Tabela Comparativa](TabelaComparativa.jpg)
 
+## [Diagrama ER](Diagrama.png)
+
 ## [Planejamento da Release](planejamento-da-release.md)
 
 ## [Representação da Arquitetura](Diagrama.png) 
