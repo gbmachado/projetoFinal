@@ -4,6 +4,8 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Canvas do Produto](Canvas.pptx)
 
+## [Tabela Comparativa](TabelaComparativa.jpeg)
+
 ## [Planejamento da Release](planejamento-da-release.md)
 
 ## [Representação da Arquitetura](Diagrama.png) 
