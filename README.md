@@ -4,7 +4,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Canvas do Produto](Canvas.jpg)
 
-## [Tabela Comparativa](TabelaComparativa.jpeg)
+## [Tabela Comparativa](TabelaComparativa.jpg)
 
 ## [Planejamento da Release](planejamento-da-release.md)
 
