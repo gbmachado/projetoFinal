@@ -10,7 +10,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Personas](personas.md)
 
-## [BackLog](BackLog.jpg)
+## [Backlog](BackLog.jpg)
 
 ## [User Stories](UserStories.jpg)
 
