@@ -12,6 +12,8 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [BackLog](BackLog.jpg)
 
+## [User Stories](UserStories.jpg)
+
 ## [Representação da Arquitetura](Arquitetura.jpeg)
 
 
