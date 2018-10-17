@@ -8,7 +8,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Diagrama ER](Diagrama.png)
 
-## [Personas](Persona1.docx)
+## [Personas](Persona1.jpg)
 
 ## [Diagrama ER](Diagrama.png)
 
