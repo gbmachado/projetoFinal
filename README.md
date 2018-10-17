@@ -8,6 +8,10 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Diagrama ER](Diagrama.png)
 
+## [Personas](Persona1.docx)
+
+## [Diagrama ER](Diagrama.png)
+
 ## [Planejamento da Release](planejamento-da-release.md)
 
 ## [Representação da Arquitetura](Diagrama.png) 
