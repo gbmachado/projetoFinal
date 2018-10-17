@@ -12,7 +12,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [BackLog](BackLog.jpg)
 
-## [Representação da Arquitetura](Arquitetura.jpg)
+## [Representação da Arquitetura](Arquitetura.jpeg)
 
 
 
