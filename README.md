@@ -10,19 +10,13 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Personas](personas.md)
 
-## [Diagrama ER](Diagrama.png)
-
-## [Planejamento da Release](planejamento-da-release.md)
+## [BackLog](BackLog.jpg)
 
 ## [Representação da Arquitetura](Diagrama.png) 
 
-## [Desenvolvimento da Solução](desenvolvimento-da-solucao.md)
 
-## [Testes e Validação](testes.md)
 
-## [Testes e Validação444](testes.md)
 
-## [POSTMORTEM](postmortem.md)
 
 
 
